@@ -7,9 +7,9 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/kit4kit/task1/issues/3#issue-731579960
-* https://github.com/kit4kit/task1/issues/2#issue-731579471
-* https://github.com/kit4kit/task1/issues/1#issue-731578899
+* [Ключ для проверки приложения валидный](https://github.com/kit4kit/task1/issues/3#issue-731579960)
+* [Ключ для проверки приложения не валидный](https://github.com/kit4kit/task1/issues/2#issue-731579471)
+* [Ключ для проверки не валидный](https://github.com/kit4kit/task1/issues/1#issue-731578899)
 
 ## Описание процесса тестирования
 
