@@ -7,9 +7,9 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* 80b427f8-92cd-3aae-ba04-3927fbe17c6 - FAIL
-* 387eedc6-12e9-3b32-9881-63b6b5e85317 - FAIL
-* c2bc778a-1cb9-46c6-b435-0489649d2a42 - OK
+* https://github.com/kit4kit/task1/issues/3#issue-731579960
+* https://github.com/kit4kit/task1/issues/2#issue-731579471
+* https://github.com/kit4kit/task1/issues/1#issue-731578899
 
 ## Описание процесса тестирования
 
